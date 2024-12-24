@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stevarroberto&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevarroberto&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=stevarroberto&icon=1&color=1)](https://visitcount.itsvg.in)
 
